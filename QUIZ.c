@@ -1,3 +1,5 @@
+// Copyright (c) 2019-20 Kritik Agarwal
+
 #include<time.h>
 #include<stdio.h>
 #include<stdlib.h>
